@@ -1,0 +1,7 @@
+fastapi
+mlflow
+uvicorn
+requests
+pydantic
+numpy
+pytest
